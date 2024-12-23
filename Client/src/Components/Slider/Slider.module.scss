@@ -1,0 +1,78 @@
+@import '../../../theme.scss';
+
+.bannerSlider {
+    width : 100vw;
+    height: 100vh;
+}
+
+.image_container {
+    width : 100%;
+    height: 100%;
+
+    img {
+        width     : 100%;
+        height    : 550px;
+        object-fit: cover;
+    }
+}
+
+.product_other_images {
+   
+    height    : 125px;
+    width     : 145px;
+    object-fit: contain;
+    background-color: $lightGrey;
+    padding: 15px;
+    border-radius: 5px;
+  
+}
+
+.swiper_button_container {
+    display        : flex;
+    justify-content: end;
+    position       : relative;
+    top            : -50px;
+
+    @media (max-width: 500px) {
+        position: relative;
+        right   : 80px;
+        top     : 0px !important;
+    }
+
+    .nav_btn {
+        width           : 45px;
+        height          : 45px;
+        margin-right    : 15px;
+        cursor          : pointer;
+        background-color: $lightGrey2;
+        text-align      : center;
+        line-height     : 40px;
+        border-radius   : 50%;
+    }
+    
+}
+
+
+@media (max-width: 768px) {
+    .bannerSlider {
+        height: 80vh;
+    }
+
+    .image_container {
+        img {
+            width     : 100%;
+            height    : 150px;
+            object-fit: cover;
+        }
+    }
+}
+
+@media (max-width: 500px) {
+    .bannerSlider {
+        height: 60vh;
+    }
+
+    .swiper_button_container {
+        top: -30px;
+    }
+}

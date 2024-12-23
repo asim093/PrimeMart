@@ -1,0 +1,14 @@
+@import '../theme.scss';
+
+
+.button_container {
+    width           : 100%;
+    color           : $pagebackground;
+    padding         : 10px;
+    border-radius   : 3px;
+    outline         : none;
+    border          : none;
+    text-align      : center;
+    text-transform  : capitalize;
+    background-color: $Primarycolor;
+}

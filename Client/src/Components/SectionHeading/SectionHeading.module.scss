@@ -1,0 +1,16 @@
+@import '../theme.scss';
+
+.container {
+    
+    .header {
+        display    : flex;
+        align-items: center;
+
+        p {
+            color      : $Primarycolor;
+            font-weight: 500;
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+    }
+}

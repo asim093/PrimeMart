@@ -1,0 +1,23 @@
+@import '../theme.scss';
+
+.auth_banner_img {
+    >img {
+        height    : 90vh;
+        width     : 100%;
+        object-fit: cover;
+    }
+}
+
+.form_wrapper{
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+
+}
+
+@media screen and (max-width:600px){
+    .row_wrap{
+        margin-right: 0 !important;
+    }
+}

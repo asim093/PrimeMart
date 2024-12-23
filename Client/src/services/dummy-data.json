@@ -1,0 +1,404 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Havic HV G-92 Gamepad",
+            "description": "Playstation 5 controller skin high quality vinyl with air channel adhesive for easy bubble-free install & mess-free removal.",
+            "price": "192.00",
+            "StockQty": "10",
+            "images": [
+                "https://assets-prd.ignimgs.com/2021/07/09/71ty7jsykl-ac-sl1500-1625862513288.jpg",
+                "https://theawesomer.com/photos/2018/01/hori_onyx_ps4_wireless_controller_4.jpg"
+            ],
+            "rating": "4.2",
+            "color": [
+                "#fff",
+                "#000"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Logitech G Pro Wireless Mouse",
+            "description": "Ergonomic gaming mouse with 16000 DPI for precision and advanced wireless technology.",
+            "price": "120.00",
+            "StockQty": "25",
+            "images": [
+                "https://www.pcgamesn.com/wp-content/uploads/2018/11/Logitech-G-Pro-Wireless.jpg",
+                "https://assets.logitech.com/assets/64925/2/pro-wireless-gaming-mouse.png"
+            ],
+            "rating": "4.7",
+            "color": [
+                "#333",
+                "#fff"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "SteelSeries Arctis 7 Wireless Headset",
+            "description": "High-quality wireless gaming headset with lossless 2.4 GHz audio and 24-hour battery life.",
+            "price": "149.99",
+            "StockQty": "15",
+            "images": [
+                "https://assets.vg247.com/current/2018/11/steelseries-arctis-7-black-friday.jpg",
+                "https://assets.steelseriescdn.com/d4e5dcf98d9b21009a14f07b9469a769.jpg"
+            ],
+            "rating": "4.5",
+            "color": [
+                "#444",
+                "#111"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Razer BlackWidow V3 Mechanical Keyboard",
+            "description": "Tactile and clicky mechanical switches with customizable RGB lighting for a dynamic gaming experience.",
+            "price": "169.99",
+            "StockQty": "30",
+            "images": [
+                "https://media.gamestop.com/i/gamestop/11155920_ALT01/Razer-BlackWidow-V3-Mini-HyperSpeed-65-Percent-Wireless-Green-Switch-Mechanical-Gaming-Keyboard-Black-with-Chroma-RGB?fmt=auto",
+                "https://m.media-amazon.com/images/I/71wLhThkX8L._AC_SL1500_.jpg"
+            ],
+            "rating": "4.8",
+            "color": [
+                "#000",
+                "#1e90ff"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Corsair K70 RGB MK.2 Keyboard",
+            "description": "Durable aluminum frame and 100% Cherry MX mechanical key switches for responsive gaming.",
+            "price": "179.99",
+            "StockQty": "20",
+            "images": [
+                "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6402/6402932cv14d.jpg",
+                "https://m.media-amazon.com/images/I/71lT7MLJcAL._AC_SL1500_.jpg"
+            ],
+            "rating": "4.6",
+            "color": [
+                "#666",
+                "#222"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Sony PlayStation DualSense Wireless Controller",
+            "description": "Next-gen haptic feedback and adaptive triggers for an immersive gaming experience.",
+            "price": "69.99",
+            "StockQty": "100",
+            "images": [
+                "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-thumbnail-ps5-01-en-17jul20?$native$",
+                "https://m.media-amazon.com/images/I/619BkvKW35L._AC_SL1500_.jpg"
+            ],
+            "rating": "4.9",
+            "color": [
+                "#fff",
+                "#000"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Xbox Elite Series 2 Controller",
+            "description": "High-performance, customizable controller with interchangeable thumbsticks and hair-trigger locks.",
+            "price": "179.99",
+            "StockQty": "50",
+            "images": [
+                "https://m.media-amazon.com/images/I/71-J++2vEkL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71nDAksf3aL._AC_SL1500_.jpg"
+            ],
+            "rating": "4.7",
+            "color": [
+                "#000",
+                "#999"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "HyperX Cloud II Gaming Headset",
+            "description": "Comfortable memory foam ear cushions and 7.1 virtual surround sound for premium audio.",
+            "price": "99.99",
+            "StockQty": "40",
+            "images": [
+                "https://techcart.com.au/wp-content/uploads/2021/05/56972.jpeg",
+                "https://m.media-amazon.com/images/I/71SbwBLtT-L._AC_SL1500_.jpg"
+            ],
+            "rating": "4.6",
+            "color": [
+                "#000",
+                "#ff0000"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Asus ROG Strix RTX 3080 Graphics Card",
+            "description": "NVIDIA GeForce RTX 3080 with 10GB GDDR6X and triple-fan cooling for ultimate gaming performance.",
+            "price": "849.99",
+            "StockQty": "5",
+            "images": [
+                "https://c1.neweggimages.com/ProductImageCompressAll1280/14-126-508-V03.jpg",
+                "https://m.media-amazon.com/images/I/71lL4HkS-QL._AC_SL1500_.jpg"
+            ],
+            "rating": "4.9",
+            "color": [
+                "#000",
+                "#ffcc00"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "MSI GeForce RTX 3060 Gaming X Trio",
+            "description": "NVIDIA Ampere architecture and 12GB GDDR6 for high-end gaming and productivity.",
+            "price": "499.99",
+            "StockQty": "10",
+            "images": [
+                "https://static.sinerji.gen.tr/Images/LG/KGP-msi-geforcertx3060gamingxtrio12g-productphoto3d1.jpg",
+                "https://m.media-amazon.com/images/I/81zRbp8VdzL._AC_SL1500_.jpg"
+            ],
+            "rating": "4.5",
+            "color": [
+                "#222",
+                "#ff0000"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Razer DeathAdder V2 Gaming Mouse",
+            "description": "Ergonomic gaming mouse with Razer optical switches and 20,000 DPI for pinpoint accuracy.",
+            "price": "49.99",
+            "StockQty": "35",
+            "images": [
+                "https://brain-images-ssl.cdn.dixons.com/0/3/10204230/u_10204230.jpg",
+                "https://m.media-amazon.com/images/I/61QhmSHiavL._AC_SL1500_.jpg"
+            ],
+            "rating": "4.8",
+            "color": [
+                "#000",
+                "#00ff00"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Corsair HS70 Pro Wireless Gaming Headset",
+            "description": "Comfortable, lightweight design with custom-tuned 50mm drivers and virtual 7.1 surround sound.",
+            "price": "99.99",
+            "StockQty": "20",
+            "images": [
+                "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6394/6394001_sd.jpg",
+                "https://m.media-amazon.com/images/I/61GyibChcaL._AC_SL1500_.jpg"
+            ],
+            "rating": "4.5",
+            "color": [
+                "#000",
+                "#777"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+            "description": "Industry-leading noise cancellation with dual noise sensor technology and up to 30 hours of battery life.",
+            "price": "349.99",
+            "StockQty": "15",
+            "images": [
+                "https://www.bhphotovideo.com/images/images2500x2500/sony_wh1000xm4_b_wh_1000xm4_wireless_noise_canceling_over_ear_1582549.jpg",
+                "https://www.sony.com/image/43394e334bc4f8e17073cfedc4d96b5c?fmt=pjpeg&wid=1500&hei=1000"
+            ],
+            "rating": "4.9",
+            "color": [
+                "#000",
+                "#fff"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Samsung Odyssey G7 Gaming Monitor",
+            "description": "Curved QHD gaming monitor with a 240Hz refresh rate and 1ms response time for immersive gaming.",
+            "price": "699.99",
+            "StockQty": "8",
+            "images": [
+                "https://tonixcomputer.co.id/wp-content/uploads/sites/3/2020/08/Samsung-Odyssey-G7-Gaming-Monitor-LC27G75TQSEXXD-m.jpg",
+                "https://cdn.mos.cms.futurecdn.net/d9S3puGJpm6PzTGPvDqRzT.jpg"
+            ],
+            "rating": "4.6",
+            "color": [
+                "#000",
+                "#0e76a8"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "LG Ultragear 27GN950-B 27” Gaming Monitor",
+            "description": "27-inch 4K UHD monitor with a 144Hz refresh rate and 1ms response time for vibrant visuals.",
+            "price": "799.99",
+            "StockQty": "10",
+            "images": [
+                "https://www.computercritique.com/wp-content/uploads/2020/10/LG-27GN950-B-27-Inch-UHD-3840-x-2160-Nano-IPS-Display-Ultragear-Gaming-Monitor-1024x971.jpg",
+                "https://cdn.mos.cms.futurecdn.net/sPqJh8wv8P4fC9U2UHzuk8.jpg"
+            ],
+            "rating": "4.8",
+            "color": [
+                "#000",
+                "#ffcc00"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Acer Predator Helios 300 Gaming Laptop",
+            "description": "15.6-inch Full HD gaming laptop with Intel i7 processor, NVIDIA GeForce RTX 3060, and 16GB RAM.",
+            "price": "1399.99",
+            "StockQty": "5",
+            "images": [
+                "https://altechelectronics.org/wp-content/uploads/2021/07/719Hcr4vHPS._AC_SL1500_-1536x1210.jpg",
+                "https://www.acer.com/ac/en/US/content/series/predatorhelios300"
+            ],
+            "rating": "4.6",
+            "color": [
+                "#000",
+                "#00ff00"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Gigabyte AORUS 15G Gaming Laptop",
+            "description": "High-performance laptop with Intel i7, NVIDIA GeForce RTX 3070, and customizable RGB keyboard.",
+            "price": "1999.99",
+            "StockQty": "3",
+            "images": [
+                "https://c1.neweggimages.com/ProductImageCompressAll1280/34-725-125-V12.jpg",
+                "https://www.gigabyte.com/Graphics-Card/GIGABYTE-AORUS-GAMING-15G-2021#kf"
+            ],
+            "rating": "4.7",
+            "color": [
+                "#333",
+                "#fff"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Lenovo Legion 5 Gaming Laptop",
+            "description": "Powerful gaming laptop featuring Ryzen 7, NVIDIA RTX 3060, and 15.6-inch FHD display.",
+            "price": "1299.99",
+            "StockQty": "10",
+            "images": [
+                "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6455/6455136_rd.jpg",
+                "https://www.lenovo.com/medias/lenovo-laptop-legion-5-pro-hero.png"
+            ],
+            "rating": "4.5",
+            "color": [
+                "#111",
+                "#999"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "MSI GS66 Stealth Gaming Laptop",
+            "description": "Thin and light gaming laptop with 10th Gen Intel i7, NVIDIA RTX 3070, and 240Hz display.",
+            "price": "1999.99",
+            "StockQty": "4",
+            "images": [
+                "https://storage-asset.msi.com/global/picture/image/feature/nb/GS66-76/images/GS66-D1.png",
+                "https://www.msi.com/Laptop/GS66-Stealth-10UX"
+            ],
+            "rating": "4.8",
+            "color": [
+                "#000",
+                "#ff0000"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Razer Blade 15 Advanced Gaming Laptop",
+            "description": "High-performance laptop with Intel i7, NVIDIA RTX 3080, and a stunning OLED display.",
+            "price": "2499.99",
+            "StockQty": "6",
+            "images": [
+                "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6411/6411700_rd.jpg",
+                "https://www.razer.com/gaming-laptops/razer-blade-15"
+            ],
+            "rating": "4.9",
+            "color": [
+                "#000",
+                "#ffcc00"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Elgato HD60 S+ Game Capture Card",
+            "description": "Capture your gameplay in stunning 1080p60 with ultra-low latency and instant game view.",
+            "price": "199.99",
+            "StockQty": "25",
+            "images": [
+                "https://a.scdn.gr/images/sku_main_images/021031/21031256/20200708112813_elgato_hd60_s.jpeg",
+                "https://www.elgato.com/en/gaming/game-capture-hd60-s"
+            ],
+            "rating": "4.7",
+            "color": [
+                "#000",
+                "#ff0000"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "HyperX Alloy FPS Pro Mechanical Gaming Keyboard",
+            "description": "Compact and portable keyboard with Cherry MX keys and red LED backlighting.",
+            "price": "79.99",
+            "StockQty": "30",
+            "images": [
+                "https://brain-images-ssl.cdn.dixons.com/3/7/10168873/u_10168873.jpg",
+                "https://www.hyperxgaming.com/us/alloy-fps-pro"
+            ],
+            "rating": "4.6",
+            "color": [
+                "#000",
+                "#fff"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "ASUS ROG Strix Scope TKL RGB Mechanical Gaming Keyboard",
+            "description": "Tenkeyless keyboard with customizable RGB lighting and durable design for competitive gaming.",
+            "price": "109.99",
+            "StockQty": "15",
+            "images": [
+                "https://m.media-amazon.com/images/I/719SRJVEpqL._AC_SL1500_.jpg",
+                "https://rog.asus.com/keyboards/rog-strix-scope-tkl-aim-lab-edition/"
+            ],
+            "rating": "4.5",
+            "color": [
+                "#000",
+                "#00ff00"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Logitech G935 Wireless RGB Gaming Headset",
+            "description": "Advanced wireless gaming headset with customizable RGB lighting and DTS Headphone:X 2.0 surround sound.",
+            "price": "199.99",
+            "StockQty": "20",
+            "images": [
+                "https://www.maxgaming.com/img/bilder/artiklar/zoom/13798_3.jpg?m=1588924304?w=110",
+                "https://www.logitechg.com/en-us/products/headsets/g935-rgb-wireless-gaming-headset.943-000114.html"
+            ],
+            "rating": "4.4",
+            "color": [
+                "#000",
+                "#fff"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "BenQ ZOWIE XL2411K 24 Inch Gaming Monitor",
+            "description": "24-inch Full HD monitor with 144Hz refresh rate and 1ms response time for fast-paced gaming.",
+            "price": "299.99",
+            "StockQty": "8",
+            "images": [
+                "https://cdn.mwave.com.au/images/400/benq_zowie_xl2411k_24_144hz_full_hd_dyac_tn_gaming_monitor_ac38966_9.jpg",
+                "https://www.benq.com/en-us/monitor/gaming/xl2411k.html"
+            ],
+            "rating": "4.7",
+            "color": [
+                "#000",
+                "#ff0000"
+            ]
+        }
+    ]
+}

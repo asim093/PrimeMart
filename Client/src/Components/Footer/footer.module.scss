@@ -1,0 +1,124 @@
+@import '../theme.scss';
+
+
+
+.footer {
+    background-color: $dark;
+    color           : $accentGrey;
+    padding         : 20px;
+    display         : flex;
+    flex-direction  : column;
+    flex-wrap       : wrap;
+    align-items     : center;
+
+    >.footer_content {
+        width          : 80%;
+        display        : flex;
+        justify-content: space-between;
+        flex-wrap      : wrap;
+        align-items    : flex-start;
+    }
+
+
+    .subscribe {
+        >.sectionTitle {
+            font-weight: 600;
+        }
+
+        >h5 {
+            font-size: 15px;
+        }
+
+        .email_container {
+            display      : flex;
+            align-items  : center;
+            border       : 1px solid $pagebackground;
+            border-radius: 2px;
+            padding      : 5px 10px;
+            width        : 190px;
+
+            >input {
+                border          : none !important;
+                background-color: transparent !important;
+                outline         : none !important;
+                color           : $pagebackground;
+                width           : 150px;
+            }
+        }
+    }
+
+    .sectionTitle {
+        font-size    : 18px;
+        color        : $lightGrey;
+        margin-bottom: 10px;
+    }
+
+    .subscribe,
+    .support,
+    .account,
+    .quickLink,
+    .download {
+        display       : flex;
+        flex-direction: column;
+        flex          : 1;
+        padding       : 10px;
+
+        p,
+        li {
+            font-size    : 14px;
+            color        : $accentGrey;
+            margin-bottom: 5px;
+        }
+
+        ul {
+            list-style: none;
+            padding   : 0;
+
+            li {
+                margin-bottom: 5px;
+            }
+
+            a {
+                color          : $accentGrey;
+                text-decoration: none;
+
+                &:hover {
+                    color: $Primarycolor;
+                }
+            }
+        }
+
+        .footer_images {
+            display: flex;
+            gap    : 10px;
+
+            >.footer_icon_images {
+                >img {
+                    padding-top: 5px ;
+                }
+            }
+        }
+    }
+
+    .socialIcons {
+        display   : flex;
+        margin-top: 10px;
+
+        a {
+            margin-right: 10px;
+            color       : $lightGrey;
+            font-size   : 20px;
+
+            &:hover {
+                color: $Primarycolor;
+            }
+        }
+    }
+
+    .copyright {
+        margin-top: 20px;
+        font-size : 14px;
+        color     : $dark_grey;
+        text-align: center;
+    }
+}

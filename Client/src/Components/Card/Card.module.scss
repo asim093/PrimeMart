@@ -1,0 +1,46 @@
+@import '../theme.scss';
+
+.product_card_container {
+    width: 280px;
+
+    .card_img_Container {
+        height          : 250px;
+        // background-color: $lightGrey2;
+        display         : flex;
+        justify-content : center;
+        align-items     : center;
+
+        img {
+            max-width : 100%; 
+            max-height: 100%;
+            width     : auto;
+            height    : auto;
+        }
+    }
+
+    .card_content {
+        margin-top     : 15px;
+        display        : flex;
+        justify-content: space-between;
+
+        .card_detail {
+            h6 {
+                font-weight: 600;
+            }
+
+            p {
+                color      : $Primarycolor;
+                padding    : 0;
+                font-weight: 600;
+            }
+        }
+
+        .cart_icon {
+            border       : 2px solid black;
+            text-align   : center;
+            border-radius: 50%;
+            height       : 30px;
+            width        : 30px;
+        }
+    }
+}

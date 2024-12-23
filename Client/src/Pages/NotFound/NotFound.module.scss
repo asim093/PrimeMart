@@ -1,0 +1,22 @@
+.centeredContainer {
+    display        : flex;
+    flex-direction : column;
+    align-items    : center;
+    justify-content: center;
+    text-align     : center;
+    height         : 100vh;
+    margin         : 0;
+    padding        : 0;
+    h1{
+        font-size: 6rem;
+        margin: 30px 0px;
+        color: black;
+    }
+    p{
+        font-size: 20px;
+        margin: 20px 0px 70px 0px;
+    }
+    .button_div{
+        width: 12%;
+    }
+}

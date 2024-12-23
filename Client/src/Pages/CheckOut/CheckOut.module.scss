@@ -1,0 +1,44 @@
+@import '../../../theme.scss';
+
+.table_container {
+    table-layout: fixed;
+    width       : 100%;
+}
+.table_row{
+height: 150px;
+}
+
+.Product_cell{
+    display: flex;
+    align-items: center;
+    p{
+        overflow: hidden;
+        text-wrap: nowrap;
+        text-overflow: ellipsis;
+    }
+
+}
+.img_container {
+    position: relative;
+    width : 80px;
+    height: 80px;
+
+    .product_img{
+        width: 100%;
+        height: 100%;
+    }
+    .cross_icon {
+        position: absolute;
+        top     : 0;
+        left    : -10px;
+        z-index: 100;
+        
+    }
+}
+
+.checkout_summary {
+    width        : 400px;
+    border       : 1px solid black;
+    border-radius: 4px;
+    padding      : 15px 20px;
+}
